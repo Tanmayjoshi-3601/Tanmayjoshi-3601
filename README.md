@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-![Profile Views](https://count.getloli.com/get/@Tanmayjoshi-3601?theme=rule34)
+![Profile Views](https://count.getloli.com/get/@Tanmayjoshi-3601?theme=3d-num)
 
 
 
