@@ -1,9 +1,7 @@
 ## Hi there 👋
 
 
-<a href="https://hits.seeyoufarm.com">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FTanmayjoshi-3601&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=PROFILE+VIEWS&edge_flat=false"/>
-</a>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7D51D&center=true&vCenter=true&width=435&lines=Welcome+to+my+profile!;Visited+by+1000%2B+developers)](https://git.io/typing-svg)
 
 <!--
 **Tanmayjoshi-3601/Tanmayjoshi-3601** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
