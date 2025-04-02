@@ -1,8 +1,7 @@
 ## Hi there 👋
 
 
-
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Tanmayjoshi-3601.Tanmayjoshi-3601)
+![Profile Views](https://count.getloli.com/get/@Tanmayjoshi-3601?theme=rule34)
 
 
 
