@@ -54,7 +54,7 @@ I'm a **Machine Learning Engineer** with expertise in LLMs, RAG systems, and clo
 - **Graduate Research Assistant** at *Northeastern University*  
   Boston, USA | June 2024 - August 2024
   
-- **Software Development Engineer ** at *IQSpatial*  
+- **Software Development Engineer** at *IQSpatial*  
   New York, USA | February 2023 - August 2023
 
 ## <span style="color:#845EC2">📊 Skills</span>
