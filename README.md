@@ -1,6 +1,6 @@
-## Hi there 👋
 
 
+## Visitor Count
 ![Profile Views](https://count.getloli.com/get/@Tanmayjoshi-3601?theme=3d-num)
 
 
