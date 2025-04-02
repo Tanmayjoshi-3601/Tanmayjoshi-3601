@@ -1,7 +1,5 @@
 ## Hi there 👋
-
-
-![Profile Views](https://komarev.com/ghpvc/?username=Tanmayjoshi-3601&color=blueviolet)
+![](https://img.shields.io/github/profile-views/Tanmayjoshi-3601?color=blue&label=Profile%20Views&logo=github&style=for-the-badge)
 
 <!--
 **Tanmayjoshi-3601/Tanmayjoshi-3601** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
