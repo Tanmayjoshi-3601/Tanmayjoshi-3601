@@ -70,12 +70,6 @@ I'm a **Machine Learning Engineer** with expertise in LLMs, RAG systems, and clo
 - **Pneumonia Detection**: Enhanced X-ray classification with distributed computing
 - **Carbon Emission Forecasting**: ML-based environmental impact prediction with 99% accuracy
 
-## <span style="color:#00B4D8">📈 GitHub Stats</span>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tanmayjoshi-3601&show_icons=true&theme=radical" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tanmayjoshi-3601&theme=radical" alt="GitHub Streak" height="165" />
-</p>
 
 ## <span style="color:#06D6A0">👥 Visitors</span>
 
